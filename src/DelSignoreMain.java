@@ -32,9 +32,7 @@ public class DelSignoreMain {
             for (int i = 0; 1< productName.size(); i++)
                 System.out.println(productInfo);
         }
-
-        ;
-        }
+    }
     }
 
 }
